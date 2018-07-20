@@ -131,6 +131,5 @@ I had been originally making this list for internal members of my lab.
 Please note that:
 <ul>
 	<li>This list is based on my personal interest, and I do not intend to evaluate or rank the journals/conferences.</li>
-	<li>The main interest is HCI.</li>
 	<li>Deadlines tend to be extended, so please make sure about the actual deadline by yourself. I am not responsible to ensure the actual final dates of the deadlines.</li>
 </ul>
