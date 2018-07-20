@@ -124,6 +124,8 @@ Nov 29 Papers</td>
 </tbody>
 </table>
   
+## Notes:
+  
 I had been originally making this list for internal members of my lab.  
 
 Please note that:
