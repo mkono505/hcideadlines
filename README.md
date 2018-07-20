@@ -113,7 +113,7 @@ Nov 29 Papers</td>
 </tr>
 <tr>
 <td>Feb 26 Journal</td>
-<td><a href="http://eics.acm.org/pacm/">EICS Q4</a></td>
+<td><a href="http://eics.acm.org/pacm/">EICS Q1</a></td>
 <td>Valencia</td>
 </tr>
 <tr>
