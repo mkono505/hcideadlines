@@ -1,6 +1,6 @@
 
-This page shows a list of paper deadlines in HCI journals/conferences and related fields.
-  
+<a href="https://github.com/mkono505/hcideadlines">Michinari Kono</a>, Univ. of Tokyo
+
 <h2>Deadline Lists:</h2>
 <h3>2018</h3>
 <table style="line-height: 2; height: 180px;" border="0" width="727">
