@@ -1,5 +1,5 @@
 
-<a href="https://github.com/mkono505/hcideadlines">Michinari Kono</a>, Univ. of Tokyo
+<a href="https://michinarikono.wordpress.com/">Michinari Kono</a>, Univ. of Tokyo
 
 <h2>Deadline Lists:</h2>
 <h3>2018</h3>
