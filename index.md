@@ -3,7 +3,7 @@
 
 <h2>Deadline Lists:</h2>
 <h3>2018</h3>
-<table style="line-height: 2; height: 180px;" border="0" width="727">
+<table style="line-height: 2;" border="0">
 <tbody>
 <tr>
 <td>Jun 29 Abst.
@@ -105,7 +105,7 @@ Nov 29 Papers</td>
 </tbody>
 </table>
 <h3>2019</h3>
-<table style="line-height: 2; height: 180px;" border="0" width="727">
+<table style="line-height: 2;" border="0" >
 <tbody>
 <tr>
 <td>Jan ?? Papers</td>
