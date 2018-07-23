@@ -91,6 +91,11 @@ Oct 8 Papers</td>
 <td></td>
 </tr>
 <tr>
+<td>Nov 16 Papers</td>
+<td><a href="http://cvpr2019.thecvf.com/submission/main_conference/author_guidelines#call_for_papers">CVPR 2019</a></td>
+<td>Long Beach</td>
+</tr>
+<tr>
 <td>Nov 22 Abst.
 Nov 29 Papers</td>
 <td><a href="http://ieeevr.org/2019/contribute/papers.html">IEEE VR 2019</a></td>
