@@ -108,9 +108,14 @@ Nov 29 Papers</td>
 <table style="line-height: 2; height: 180px;" border="0" width="727">
 <tbody>
 <tr>
+<td>Jan ?? Papers</td>
+<td><a href="http://idc.acm.org/2019/">IDC 2019</a></td>
+<td>Tokyo</td>
+</tr>
+<tr>
 <td>Jan 25 Papers</td>
 <td><a href="http://www.worldhaptics2019.org/callforpapers/">IEEE WHC 2019</a></td>
-<td>Tokyo</td>
+<td>Boise, Idaho</td>
 </tr>
 <tr>
 <td>Feb 15 Journal</td>
