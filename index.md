@@ -1,13 +1,3 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="UTF-8" name="viewport" content="width=device-width, user-scalable=no" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width,initial-scale=1.0">
-        <title>HCI Deadlines</title>
-
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700">
-  </head>
 
 This page shows a list of paper deadlines in HCI journals/conferences and related fields.
   
@@ -150,4 +140,3 @@ Please note that:
 	<li>Deadlines tend to be extended, so please make sure about the actual deadline by yourself. I am not responsible to ensure the actual final dates of the deadlines.</li>
 </ul>
 
-</html>
