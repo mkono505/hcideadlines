@@ -1,0 +1,11 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.main_table {
+	width:100%;
+}
+.main_table th ,.main_table td {
+	width:50%;
+}
