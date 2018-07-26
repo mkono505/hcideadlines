@@ -43,6 +43,13 @@ Jul 23 Papers</td>
 <td></td>
 </tr>
 <tr>
+<td>Aug 15 Abst.
+Aug 20 Papers</td>
+<td><a href="https://www2.teu.ac.jp/media/VRCAI2018/important-datas/
+">VRCAI 2018</a></td>
+<td>Tokyo</td>
+</tr>
+<tr>
 <td>Sep 1 Abst.
 Sep 5 Papers</td>
 <td><a href="https://aaai.org/Conferences/AAAI-19/aaai19call/">AAAI 2019</a></td>
