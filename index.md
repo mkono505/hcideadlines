@@ -50,6 +50,12 @@ Aug 20 Papers</td>
 <td>Tokyo</td>
 </tr>
 <tr>
+<td>Aug 17 Long
+Sep 2 Short Papers</td>
+<td><a href="http://aivr.asia.edu.tw/2018/cfp/">IEEE AIVR 2018</a></td>
+<td>Taichung, Taiwan</td>
+</tr>
+<tr>
 <td>Sep 1 Abst.
 Sep 5 Papers</td>
 <td><a href="https://aaai.org/Conferences/AAAI-19/aaai19call/">AAAI 2019</a></td>
