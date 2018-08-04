@@ -23,7 +23,7 @@ Jul 23 Papers</td>
 <td>Southampton</td>
 </tr>
 <tr>
-<td>Jul 27 Papers</td>
+<td>Aug 3 Papers</td>
 <td><a href="http://icat-egve2018.rise.org.cy/call-for-papers/">ICAT-EGVE 2018</a></td>
 <td>Cyprus</td>
 </tr>
