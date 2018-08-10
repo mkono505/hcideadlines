@@ -56,6 +56,12 @@ Sep 2 Short Papers</td>
 <td>Taichung, Taiwan</td>
 </tr>
 <tr>
+<td>Aug 19 Abst.
+Aug 26 Papers</td>
+<td><a href="https://sites.google.com/view/aci2018/authors/important-dates">ACI 2018</a></td>
+<td>Atlanta, Georgia</td>
+</tr>
+<tr>
 <td>Sep 1 Abst.
 Sep 5 Papers</td>
 <td><a href="https://aaai.org/Conferences/AAAI-19/aaai19call/">AAAI 2019</a></td>
