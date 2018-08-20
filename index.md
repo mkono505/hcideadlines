@@ -132,6 +132,12 @@ Nov 29 Papers</td>
 <td>Boise, Idaho</td>
 </tr>
 <tr>
+<td>Jan 15 Abst.
+Jan 18 Papers</td>
+<td><a href="https://dis2019.com/papers/">DIS 2019</a></td>
+<td>San Diego, California</td>
+</tr>
+<tr>
 <td>Jan 25 Papers</td>
 <td><a href="http://www.worldhaptics2019.org/callforpapers/">IEEE WHC 2019</a></td>
 <td>Tokyo</td>
@@ -150,6 +156,11 @@ Nov 29 Papers</td>
 <td>Mar 1 Papers</td>
 <td><a href="https://www.cityu.edu.hk/iros2019/contributing">IROS 2019</a></td>
 <td>Macau</td>
+</tr>
+<tr>
+<td>Mar ?? Papers</td>
+<td><a href="http://iccv2019.thecvf.com/submission/main_conference/author_guidelines">ICCV 2019</a></td>
+<td>Seoul</td>
 </tr>
 </tbody>
 </table>
