@@ -102,7 +102,7 @@ Oct 8 Papers</td>
 </tr>
 <tr>
 <td>Nov 1 Papers</td>
-<td><a href="http://www.augmented-human.com/home/ah2019/ah2019-paper-submission-review-process">AH 2019</a></td>
+<td><a href="https://www.augmented-human.com/ah2019-paper-submission">AH 2019</a></td>
 <td>Reims</td>
 </tr>
 <tr>
@@ -143,6 +143,7 @@ Jan 18 Papers</td>
 <td><a href="https://dis2019.com/papers/">DIS 2019</a></td>
 <td>San Diego, California</td>
 </tr>
+<tr>
 <td>Jan 18 Abst.
 Jan 25 Papers</td>
 <td><a href="https://tvx.hosting.acm.org/2019/participation/long-and-short-paper/">TVX 2019</a></td>
@@ -178,7 +179,7 @@ Jan 25 Papers</td>
   
 ## Notes:
   
-I had been originally making this list for internal members of my lab.  
+I had been originally making this list for internal members of our lab.  
 
 Please note that:
 <ul>
