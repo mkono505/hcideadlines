@@ -121,6 +121,12 @@ Nov 29 Papers</td>
 <td><a href="http://ieeevr.org/2019/contribute/papers.html">IEEE VR 2019</a></td>
 <td>Osaka</td>
 </tr>
+<tr>
+<td>Dec 14 Abst.
+Dec 19 Papers</td>
+<td><a href="http://etra.acm.org/2019/authors.html#call-for-submissions">ETRA 2019</a></td>
+<td>Denver</td>
+</tr>
 </tbody>
 </table>
 <h3>2019</h3>
@@ -137,6 +143,11 @@ Jan 18 Papers</td>
 <td><a href="https://dis2019.com/papers/">DIS 2019</a></td>
 <td>San Diego, California</td>
 </tr>
+<td>Jan 18 Abst.
+Jan 25 Papers</td>
+<td><a href="https://tvx.hosting.acm.org/2019/participation/long-and-short-paper/">TVX 2019</a></td>
+<td>Manchester</td>
+</tr>	
 <tr>
 <td>Jan 25 Papers</td>
 <td><a href="http://www.worldhaptics2019.org/callforpapers/">IEEE WHC 2019</a></td>
