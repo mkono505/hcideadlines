@@ -40,7 +40,7 @@ Jul 23 Papers</td>
 <tr>
 <td>Aug 15 Journal</td>
 <td><a href="https://imwut.acm.org/authors.cfm">IMWUT</a></td>
-<td></td>
+<td>London</td>
 </tr>
 <tr>
 <td>Aug 15 Abst.
@@ -101,14 +101,9 @@ Oct 8 Papers</td>
 <td>Valencia</td>
 </tr>
 <tr>
-<td>Nov 1 Papers</td>
-<td><a href="https://www.augmented-human.com/ah2019-paper-submission">AH 2019</a></td>
-<td>Reims</td>
-</tr>
-<tr>
 <td>Nov 15 Journal</td>
 <td><a href="https://imwut.acm.org/authors.cfm">IMWUT</a></td>
-<td></td>
+<td>London</td>
 </tr>
 <tr>
 <td>Nov 16 Papers</td>
@@ -132,6 +127,11 @@ Dec 19 Papers</td>
 <h3>2019</h3>
 <table style="line-height: 2;" border="0" >
 <tbody>
+<tr>
+<td>Nov 1 Papers</td>
+<td><a href="https://www.augmented-human.com/ah2019-paper-submission">AH 2019</a></td>
+<td>Reims</td>
+</tr>
 <tr>
 <td>Jan ?? Papers</td>
 <td><a href="http://idc.acm.org/2019/">IDC 2019</a></td>
@@ -157,7 +157,7 @@ Jan 25 Papers</td>
 <tr>
 <td>Feb 15 Journal</td>
 <td><a href="https://imwut.acm.org/authors.cfm">IMWUT</a></td>
-<td></td>
+<td>London</td>
 </tr>
 <tr>
 <td>Feb 26 Journal</td>
