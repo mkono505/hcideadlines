@@ -39,7 +39,7 @@ Jul 23 Papers</td>
 <tr>
 <td>Aug 15 Journal</td>
 <td><a href="https://imwut.acm.org/authors.cfm">IMWUT</a></td>
-<td></td>
+<td>London</td>
 </tr>
 <tr>
 <td>Sep 1 Abst.
@@ -81,14 +81,9 @@ Oct 8 Papers</td>
 <td>Valencia</td>
 </tr>
 <tr>
-<td>Nov 1 Papers</td>
-<td><a href="http://www.augmented-human.com/home/ah2019/ah2019-paper-submission-review-process">AH 2019</a></td>
-<td>Reims</td>
-</tr>
-<tr>
 <td>Nov 15 Journal</td>
 <td><a href="https://imwut.acm.org/authors.cfm">IMWUT</a></td>
-<td></td>
+<td>London</td>
 </tr>
 <tr>
 <td>Nov 16 Papers</td>
@@ -107,6 +102,11 @@ Nov 29 Papers</td>
 <table style="line-height: 2; height: 180px;" border="0" width="727">
 <tbody>
 <tr>
+<td>Jan 1 Papers</td>
+<td><a href="http://www.augmented-human.com/home/ah2019/ah2019-paper-submission-review-process">AH 2019</a></td>
+<td>Reims</td>
+</tr>
+<tr>
 <td>Jan 25 Papers</td>
 <td><a href="http://www.worldhaptics2019.org/callforpapers/">IEEE WHC 2019</a></td>
 <td>Tokyo</td>
@@ -114,7 +114,7 @@ Nov 29 Papers</td>
 <tr>
 <td>Feb 15 Journal</td>
 <td><a href="https://imwut.acm.org/authors.cfm">IMWUT</a></td>
-<td></td>
+<td>London</td>
 </tr>
 <tr>
 <td>Feb 26 Journal</td>
