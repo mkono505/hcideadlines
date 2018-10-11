@@ -128,7 +128,7 @@ Dec 19 Papers</td>
 <table style="line-height: 2;" border="0" >
 <tbody>
 <tr>
-<td>Nov 1 Papers</td>
+<td>Jan 1 Papers</td>
 <td><a href="https://www.augmented-human.com/ah2019-paper-submission">AH 2019</a></td>
 <td>Reims</td>
 </tr>
