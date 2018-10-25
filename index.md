@@ -181,7 +181,7 @@ Jan 27 Papers</td>
 <td>Seoul</td>
 </tr>
 <tr>
-<td>Mar 29 Papers
+<td>Mar 29 Abst.
 Apr 5 Papers</td>
 <td><a href="https://www.interspeech2019.org/calls/important_dates.html">Interspeech 2019</a></td>
 <td>Graz, Austria</td>
