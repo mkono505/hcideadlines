@@ -155,6 +155,12 @@ Jan 25 Papers</td>
 <td>Tokyo</td>
 </tr>
 <tr>
+<td>Jan 20 Abst.
+Jan 27 Papers</td>
+<td><a href="https://www.ufrgs.br/nime2019/participate.html">NIME 2019</a></td>
+<td>Porto Alegre, Brazil</td>
+</tr>	
+<tr>
 <td>Feb 15 Journal</td>
 <td><a href="https://imwut.acm.org/authors.cfm">IMWUT</a></td>
 <td>London</td>
@@ -173,6 +179,12 @@ Jan 25 Papers</td>
 <td>Mar ?? Papers</td>
 <td><a href="http://iccv2019.thecvf.com/submission/main_conference/author_guidelines">ICCV 2019</a></td>
 <td>Seoul</td>
+</tr>
+<tr>
+<td>Mar 29 Papers
+Apr 5 Papers</td>
+<td><a href="https://www.interspeech2019.org/calls/important_dates.html">Interspeech 2019</a></td>
+<td>Graz, Austria</td>
 </tr>
 </tbody>
 </table>
