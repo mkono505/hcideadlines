@@ -159,7 +159,12 @@ Jan 25 Papers</td>
 Jan 27 Papers</td>
 <td><a href="https://www.ufrgs.br/nime2019/participate.html">NIME 2019</a></td>
 <td>Porto Alegre, Brazil</td>
-</tr>	
+</tr>
+<tr>
+<td>Feb 1 Papers</td>
+<td><a href="https://mobilehci.acm.org/2019/">MobileHCI 2019</a></td>
+<td>Taipei</td>
+</tr>
 <tr>
 <td>Feb 15 Journal</td>
 <td><a href="https://imwut.acm.org/authors.cfm">IMWUT</a></td>
