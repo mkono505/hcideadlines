@@ -133,7 +133,7 @@ Dec 19 Papers</td>
 <td>Reims</td>
 </tr>
 <tr>
-<td>Jan ?? Papers</td>
+<td>Jan 16 Papers</td>
 <td><a href="http://idc.acm.org/2019/">IDC 2019</a></td>
 <td>Boise, Idaho</td>
 </tr>
