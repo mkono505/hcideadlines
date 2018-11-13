@@ -191,6 +191,16 @@ Apr 5 Papers</td>
 <td><a href="https://www.interspeech2019.org/calls/important_dates.html">Interspeech 2019</a></td>
 <td>Graz, Austria</td>
 </tr>
+<tr>
+<td>Apr 1 Papers</td>
+<td><a href="https://www.acmmm.org/2019/important-dates/">ACMMM 2019</a></td>
+<td>Nice</td>
+</tr>
+<tr>
+<td>Apr 5 Papers</td>
+<td><a href="http://uist.acm.org/uist2019/">UIST 2019</a></td>
+<td>New Orleans</td>
+</tr>
 </tbody>
 </table>
   
