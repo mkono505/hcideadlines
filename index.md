@@ -117,6 +117,11 @@ Nov 29 Papers</td>
 <td>Osaka</td>
 </tr>
 <tr>
+<td>Dec 15 Papers</td>
+<td><a href="http://i3dsymposium.github.io/2019/call_papers.html">i3D 2019</a></td>
+<td>Montreal</td>
+</tr>	
+<tr>
 <td>Dec 14 Abst.
 Dec 19 Papers</td>
 <td><a href="http://etra.acm.org/2019/authors.html#call-for-submissions">ETRA 2019</a></td>
@@ -131,6 +136,12 @@ Dec 19 Papers</td>
 <td>Jan 1 Papers</td>
 <td><a href="https://www.augmented-human.com/ah2019-paper-submission">AH 2019</a></td>
 <td>Reims</td>
+</tr>
+<tr>
+<td>Jan 13 Form
+Jan 14 Papers</td>
+<td><a href="https://s2019.siggraph.org/conference/programs-events/technical-papers/technical-papers-submissions/">SIGGRAPH 2019</a></td>
+<td>Los Angeles</td>
 </tr>
 <tr>
 <td>Jan 16 Papers</td>
