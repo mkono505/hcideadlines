@@ -1,5 +1,6 @@
-This page shows a list of paper deadlines in HCI journals/conferences and related fields.
-    
+This page shows a list of paper deadlines in HCI journals/conferences and related fields.  
+Go to  
+https://mkono505.github.io/hcideadlines/
     
 ## Notes:
   
