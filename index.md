@@ -192,7 +192,7 @@ Jan 27 Papers</td>
 <td>Macau</td>
 </tr>
 <tr>
-<td>Mar ?? Papers</td>
+<td>Mar 22 Papers</td>
 <td><a href="http://iccv2019.thecvf.com/submission/main_conference/author_guidelines">ICCV 2019</a></td>
 <td>Seoul</td>
 </tr>
@@ -211,6 +211,12 @@ Apr 5 Papers</td>
 <td>Apr 5 Papers</td>
 <td><a href="http://uist.acm.org/uist2019/">UIST 2019</a></td>
 <td>New Orleans</td>
+</tr>
+<tr>
+<td>May 14 Abst.
+May 21 Papers</td>
+<td><a href="http://sap.acm.org/2019/cfp.php">SAP 2019</a></td>
+<td>Barcelona</td>
 </tr>
 </tbody>
 </table>
