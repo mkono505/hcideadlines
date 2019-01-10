@@ -213,6 +213,17 @@ Apr 5 Papers</td>
 <td>New Orleans</td>
 </tr>
 <tr>
+<td>Apr 9 Papers</td>
+<td><a href="https://chiplay.acm.org/2019/papers/">CHI PLAY 2019</a></td>
+<td>Barcelona</td>
+</tr>
+<tr>
+<td>May 1 Abst.
+May 7 Papers</td>
+<td><a href="https://icmi.acm.org/2019/index.php?id=cfp">ICMI 2019</a></td>
+<td>Suzhou, China</td>
+</tr>
+<tr>
 <td>May 14 Abst.
 May 21 Papers</td>
 <td><a href="http://sap.acm.org/2019/cfp.php">SAP 2019</a></td>
