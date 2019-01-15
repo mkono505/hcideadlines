@@ -2,6 +2,111 @@
 <a href="https://michinarikono.wordpress.com/">Michinari Kono</a>, Univ. of Tokyo
 
 <h2>Deadline Lists:</h2>
+
+<h3>2019</h3>
+<table style="line-height: 2;" border="0" >
+<tbody>
+<tr>
+<td>Jan 1 Papers</td>
+<td><a href="https://www.augmented-human.com/ah2019-paper-submission">AH 2019</a></td>
+<td>Reims</td>
+</tr>
+<tr>
+<td>Jan 13 Form
+Jan 14 Papers</td>
+<td><a href="https://s2019.siggraph.org/conference/programs-events/technical-papers/technical-papers-submissions/">SIGGRAPH 2019</a></td>
+<td>Los Angeles</td>
+</tr>
+<tr>
+<td>Jan 16 Papers</td>
+<td><a href="http://idc.acm.org/2019/">IDC 2019</a></td>
+<td>Boise, Idaho</td>
+</tr>
+<tr>
+<td>Jan 15 Abst.
+Jan 18 Papers</td>
+<td><a href="https://dis2019.com/papers/">DIS 2019</a></td>
+<td>San Diego, California</td>
+</tr>
+<tr>
+<td>Jan 18 Abst.
+Jan 25 Papers</td>
+<td><a href="https://tvx.hosting.acm.org/2019/participation/long-and-short-paper/">TVX 2019</a></td>
+<td>Manchester</td>
+</tr>	
+<tr>
+<td>Jan 20 Abst.
+Jan 27 Papers</td>
+<td><a href="https://www.ufrgs.br/nime2019/participate.html">NIME 2019</a></td>
+<td>Porto Alegre, Brazil</td>
+</tr>
+<tr>
+<td>Feb 1 Papers</td>
+<td><a href="https://mobilehci.acm.org/2019/">MobileHCI 2019</a></td>
+<td>Taipei</td>
+</tr>
+<tr>
+<td>Feb 6 Papers</td>
+<td><a href="http://www.worldhaptics2019.org/technicalpapers/">IEEE WHC 2019</a></td>
+<td>Tokyo</td>
+</tr>
+<tr>
+<td>Feb 15 Journal</td>
+<td><a href="https://imwut.acm.org/authors.cfm">IMWUT</a></td>
+<td>London</td>
+</tr>
+<tr>
+<td>Feb 26 Journal</td>
+<td><a href="http://eics.acm.org/pacm/">EICS Q1</a></td>
+<td>Valencia</td>
+</tr>
+<tr>
+<td>Mar 1 Papers</td>
+<td><a href="https://www.cityu.edu.hk/iros2019/contributing">IROS 2019</a></td>
+<td>Macau</td>
+</tr>
+<tr>
+<td>Mar 22 Papers</td>
+<td><a href="http://iccv2019.thecvf.com/submission/main_conference/author_guidelines">ICCV 2019</a></td>
+<td>Seoul</td>
+</tr>
+<tr>
+<td>Mar 29 Abst.
+Apr 5 Papers</td>
+<td><a href="https://www.interspeech2019.org/calls/important_dates.html">Interspeech 2019</a></td>
+<td>Graz, Austria</td>
+</tr>
+<tr>
+<td>Apr 1 Papers</td>
+<td><a href="https://www.acmmm.org/2019/important-dates/">ACMMM 2019</a></td>
+<td>Nice</td>
+</tr>
+<tr>
+<td>Apr 5 Papers</td>
+<td><a href="http://uist.acm.org/uist2019/">UIST 2019</a></td>
+<td>New Orleans</td>
+</tr>
+<tr>
+<td>Apr 9 Papers</td>
+<td><a href="https://chiplay.acm.org/2019/papers/">CHI PLAY 2019</a></td>
+<td>Barcelona</td>
+</tr>
+<tr>
+<td>May 1 Abst.
+May 7 Papers</td>
+<td><a href="https://icmi.acm.org/2019/index.php?id=cfp">ICMI 2019</a></td>
+<td>Suzhou, China</td>
+</tr>
+<tr>
+<td>May 14 Abst.
+May 21 Papers</td>
+<td><a href="http://sap.acm.org/2019/cfp.php">SAP 2019</a></td>
+<td>Barcelona</td>
+</tr>
+</tbody>
+</table>
+
+<h3>Past Deadlines<h3>
 <h3>2018</h3>
 <table style="line-height: 2;" border="0">
 <tbody>
@@ -126,108 +231,6 @@ Nov 29 Papers</td>
 Dec 19 Papers</td>
 <td><a href="http://etra.acm.org/2019/authors.html#call-for-submissions">ETRA 2019</a></td>
 <td>Denver</td>
-</tr>
-</tbody>
-</table>
-<h3>2019</h3>
-<table style="line-height: 2;" border="0" >
-<tbody>
-<tr>
-<td>Jan 1 Papers</td>
-<td><a href="https://www.augmented-human.com/ah2019-paper-submission">AH 2019</a></td>
-<td>Reims</td>
-</tr>
-<tr>
-<td>Jan 13 Form
-Jan 14 Papers</td>
-<td><a href="https://s2019.siggraph.org/conference/programs-events/technical-papers/technical-papers-submissions/">SIGGRAPH 2019</a></td>
-<td>Los Angeles</td>
-</tr>
-<tr>
-<td>Jan 16 Papers</td>
-<td><a href="http://idc.acm.org/2019/">IDC 2019</a></td>
-<td>Boise, Idaho</td>
-</tr>
-<tr>
-<td>Jan 15 Abst.
-Jan 18 Papers</td>
-<td><a href="https://dis2019.com/papers/">DIS 2019</a></td>
-<td>San Diego, California</td>
-</tr>
-<tr>
-<td>Jan 18 Abst.
-Jan 25 Papers</td>
-<td><a href="https://tvx.hosting.acm.org/2019/participation/long-and-short-paper/">TVX 2019</a></td>
-<td>Manchester</td>
-</tr>	
-<tr>
-<td>Jan 25 Papers</td>
-<td><a href="http://www.worldhaptics2019.org/callforpapers/">IEEE WHC 2019</a></td>
-<td>Tokyo</td>
-</tr>
-<tr>
-<td>Jan 20 Abst.
-Jan 27 Papers</td>
-<td><a href="https://www.ufrgs.br/nime2019/participate.html">NIME 2019</a></td>
-<td>Porto Alegre, Brazil</td>
-</tr>
-<tr>
-<td>Feb 1 Papers</td>
-<td><a href="https://mobilehci.acm.org/2019/">MobileHCI 2019</a></td>
-<td>Taipei</td>
-</tr>
-<tr>
-<td>Feb 15 Journal</td>
-<td><a href="https://imwut.acm.org/authors.cfm">IMWUT</a></td>
-<td>London</td>
-</tr>
-<tr>
-<td>Feb 26 Journal</td>
-<td><a href="http://eics.acm.org/pacm/">EICS Q1</a></td>
-<td>Valencia</td>
-</tr>
-<tr>
-<td>Mar 1 Papers</td>
-<td><a href="https://www.cityu.edu.hk/iros2019/contributing">IROS 2019</a></td>
-<td>Macau</td>
-</tr>
-<tr>
-<td>Mar 22 Papers</td>
-<td><a href="http://iccv2019.thecvf.com/submission/main_conference/author_guidelines">ICCV 2019</a></td>
-<td>Seoul</td>
-</tr>
-<tr>
-<td>Mar 29 Abst.
-Apr 5 Papers</td>
-<td><a href="https://www.interspeech2019.org/calls/important_dates.html">Interspeech 2019</a></td>
-<td>Graz, Austria</td>
-</tr>
-<tr>
-<td>Apr 1 Papers</td>
-<td><a href="https://www.acmmm.org/2019/important-dates/">ACMMM 2019</a></td>
-<td>Nice</td>
-</tr>
-<tr>
-<td>Apr 5 Papers</td>
-<td><a href="http://uist.acm.org/uist2019/">UIST 2019</a></td>
-<td>New Orleans</td>
-</tr>
-<tr>
-<td>Apr 9 Papers</td>
-<td><a href="https://chiplay.acm.org/2019/papers/">CHI PLAY 2019</a></td>
-<td>Barcelona</td>
-</tr>
-<tr>
-<td>May 1 Abst.
-May 7 Papers</td>
-<td><a href="https://icmi.acm.org/2019/index.php?id=cfp">ICMI 2019</a></td>
-<td>Suzhou, China</td>
-</tr>
-<tr>
-<td>May 14 Abst.
-May 21 Papers</td>
-<td><a href="http://sap.acm.org/2019/cfp.php">SAP 2019</a></td>
-<td>Barcelona</td>
 </tr>
 </tbody>
 </table>
