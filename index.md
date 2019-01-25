@@ -71,12 +71,6 @@ Jan 27 Papers</td>
 <td>Seoul</td>
 </tr>
 <tr>
-<td>Mar 29 Abst.
-Apr 5 Papers</td>
-<td><a href="https://www.interspeech2019.org/calls/important_dates.html">Interspeech 2019</a></td>
-<td>Graz, Austria</td>
-</tr>
-<tr>
 <td>Apr 1 Papers</td>
 <td><a href="https://www.acmmm.org/2019/important-dates/">ACMMM 2019</a></td>
 <td>Nice</td>
@@ -86,6 +80,12 @@ Apr 5 Papers</td>
 Apr 4 Papers</td>
 <td><a href="http://cscw.acm.org/2019/">CSCW 2019</a></td>
 <td>Austin</td>
+</tr>
+<tr>
+<td>Mar 29 Abst.
+Apr 5 Papers</td>
+<td><a href="https://www.interspeech2019.org/calls/important_dates.html">Interspeech 2019</a></td>
+<td>Graz, Austria</td>
 </tr>
 <tr>
 <td>Apr 5 Papers</td>
