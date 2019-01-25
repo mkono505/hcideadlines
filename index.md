@@ -82,6 +82,12 @@ Apr 5 Papers</td>
 <td>Nice</td>
 </tr>
 <tr>
+<td>Mar 28 Abst.
+Apr 4 Papers</td>
+<td><a href="http://cscw.acm.org/2019/">CSCW 2019</a></td>
+<td>Austin</td>
+</tr>
+<tr>
 <td>Apr 5 Papers</td>
 <td><a href="http://uist.acm.org/uist2019/">UIST 2019</a></td>
 <td>New Orleans</td>
@@ -90,6 +96,17 @@ Apr 5 Papers</td>
 <td>Apr 9 Papers</td>
 <td><a href="https://chiplay.acm.org/2019/papers/">CHI PLAY 2019</a></td>
 <td>Barcelona</td>
+</tr>
+<tr>
+<td>Apr 4 Abst.
+Apr 11 Papers</td>
+<td><a href="https://www.auto-ui.org/19/authors/papers-2/">AutomotiveUI 2019</a></td>
+<td>Utrecht, The Netherlands</td>
+</tr>
+<tr>
+<td>Apr 19 Papers</td>
+<td><a href="https://scf.acm.org/2019/#call">SCF 2019</a></td>
+<td>Pittsburgh</td>
 </tr>
 <tr>
 <td>May 1 Abst.
