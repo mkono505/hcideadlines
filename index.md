@@ -115,6 +115,11 @@ May 7 Papers</td>
 <td>Suzhou, China</td>
 </tr>
 <tr>
+<td>May 14 Papers</td>
+<td><a href="http://hai-conference.net/hai2019/call-for-papers/">HAI 2019</a></td>
+<td>Kyoto</td>
+</tr>
+<tr>
 <td>May 14 Abst.
 May 21 Papers</td>
 <td><a href="http://sap.acm.org/2019/cfp.php">SAP 2019</a></td>
