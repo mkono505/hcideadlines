@@ -119,6 +119,10 @@ May 7 Papers</td>
 <td><a href="http://hai-conference.net/hai2019/call-for-papers/">HAI 2019</a></td>
 <td>Kyoto</td>
 </tr>
+<td>May 20 Papers</td>
+<td><a href="https://sa2019.siggraph.org/">SIGGRAPH Asia 2019</a></td>
+<td>Brisbane, Australia</td>
+</tr>
 <tr>
 <td>May 14 Abst.
 May 21 Papers</td>
