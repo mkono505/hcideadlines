@@ -109,6 +109,11 @@ Apr 11 Papers</td>
 <td>Pittsburgh</td>
 </tr>
 <tr>
+<td>Apr 26 Papers</td>
+<td><a href="http://iswc.net/iswc19/cfp_papers.html">ISWC 2019</a></td>
+<td>London</td>
+</tr>
+<tr>
 <td>May 1 Abst.
 May 7 Papers</td>
 <td><a href="https://icmi.acm.org/2019/index.php?id=cfp">ICMI 2019</a></td>
