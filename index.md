@@ -129,6 +129,7 @@ May 7 Papers</td>
 <td><a href="http://hai-conference.net/hai2019/call-for-papers/">HAI 2019</a></td>
 <td>Kyoto</td>
 </tr>
+<tr>
 <td>May 20 Papers</td>
 <td><a href="https://sa2019.siggraph.org/">SIGGRAPH Asia 2019</a></td>
 <td>Brisbane, Australia</td>
@@ -139,19 +140,23 @@ May 21 Papers</td>
 <td><a href="http://sap.acm.org/2019/cfp.php">SAP 2019</a></td>
 <td>Barcelona</td>
 </tr>
+<tr>
 <td>Jun 30 Papers</td>
 <td><a href="http://sui.acm.org/">SUI 2019</a></td>
 <td>New Orleans</td>
 </tr>
+<tr>
 <td>Jun 28 Abst.
 Jul 5 Papers</td>
 <td><a href="https://iss.acm.org/2019/authors/papers/">ISS 2019</a></td>
 <td>Daejeon, South Korea</td>
 </tr>
+<tr>
 <td>Jul 19 Papers</td>
 <td><a href="https://vrst.acm.org/vrst2019/submissions/">VRST 2019</a></td>
 <td>Sydney</td>
 </tr>
+<tr>
 <td>Aug 1 Papers</td>
 <td><a href="http://www.tei-conf.org/">TEI 2020</a></td>
 <td>Sydney</td>
