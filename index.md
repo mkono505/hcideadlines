@@ -139,7 +139,6 @@ May 21 Papers</td>
 <td><a href="http://sap.acm.org/2019/cfp.php">SAP 2019</a></td>
 <td>Barcelona</td>
 </tr>
-</tr>
 <td>Jun 30 Papers</td>
 <td><a href="http://sui.acm.org/">SUI 2019</a></td>
 <td>New Orleans</td>
