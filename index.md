@@ -66,6 +66,11 @@ Jan 27 Papers</td>
 <td>Macau</td>
 </tr>
 <tr>
+<td>Mar 15 Papers</td>
+<td><a href="http://www.ismar19.org/news/151.html">ISMAR 2019</a></td>
+<td>Beijing</td>
+</tr>
+<tr>
 <td>Mar 22 Papers</td>
 <td><a href="http://iccv2019.thecvf.com/submission/main_conference/author_guidelines">ICCV 2019</a></td>
 <td>Seoul</td>
