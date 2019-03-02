@@ -154,7 +154,7 @@ Jul 5 Papers</td>
 <td>Sydney</td>
 </tr>
 <td>Aug 1 Papers</td>
-<td><a href="http://www.tei-conf.org/">TEI 2019</a></td>
+<td><a href="http://www.tei-conf.org/">TEI 2020</a></td>
 <td>Sydney</td>
 </tr>
 </tbody>
