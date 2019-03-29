@@ -135,6 +135,11 @@ May 7 Papers</td>
 <td>Brisbane, Australia</td>
 </tr>
 <tr>
+<td>May 20 Papers</td>
+<td><a href="http://conference.vrsj.org/icat-egve2019/">ICAT-EGVE 2019</a></td>
+<td>Tokyo</td>
+</tr>
+<tr>
 <td>May 14 Abst.
 May 21 Papers</td>
 <td><a href="http://sap.acm.org/2019/cfp.php">SAP 2019</a></td>
@@ -160,6 +165,12 @@ Jul 5 Papers</td>
 <td>Aug 1 Papers</td>
 <td><a href="http://www.tei-conf.org/">TEI 2020</a></td>
 <td>Sydney</td>
+</tr>
+<tr>
+<td>Sep 3 Abst.
+Sep 18 Papers</td>
+<td><a href="https://vrcai.siggraph.org/submitters/">VRCAI 2019</a></td>
+<td>Brisbane, Australia</td>
 </tr>
 </tbody>
 </table>
