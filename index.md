@@ -1,5 +1,5 @@
 
-<a href="https://michinarikono.wordpress.com/">Michinari Kono</a>, Univ. of Tokyo
+<a href="https://michinarikono.wordpress.com/">Michinari Kono</a>
 
 <h2>Deadline Lists:</h2>
 
@@ -130,6 +130,11 @@ May 7 Papers</td>
 <td>Kyoto</td>
 </tr>
 <tr>
+<td>May 15 Journal</td>
+<td><a href="https://imwut.acm.org/authors.cfm">IMWUT</a></td>
+<td></td>
+</tr>
+<tr>
 <td>May 20 Papers</td>
 <td><a href="https://sa2019.siggraph.org/">SIGGRAPH Asia 2019</a></td>
 <td>Brisbane, Australia</td>
@@ -165,6 +170,11 @@ Jul 5 Papers</td>
 <td>Aug 1 Papers</td>
 <td><a href="http://www.tei-conf.org/">TEI 2020</a></td>
 <td>Sydney</td>
+</tr>
+<tr>
+<td>Aug 15 Journal</td>
+<td><a href="https://imwut.acm.org/authors.cfm">IMWUT</a></td>
+<td></td>
 </tr>
 <tr>
 <td>Sep 3 Abst.
