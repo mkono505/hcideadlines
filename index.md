@@ -177,10 +177,21 @@ Jul 5 Papers</td>
 <td></td>
 </tr>
 <tr>
+<td>Sep 15 Papers</td>
+<td><a href="http://icra2020.org/">ICRA 2020</a></td>
+<td>Paris</td>
+</tr>
+<tr>
 <td>Sep 3 Abst.
 Sep 18 Papers</td>
 <td><a href="https://vrcai.siggraph.org/submitters/">VRCAI 2019</a></td>
 <td>Brisbane, Australia</td>
+</tr>
+<tr>
+<td>Sep 13 Abst.
+Sep 20 Papers</td>
+<td><a href="https://chi2020.acm.org/">CHI 2020</a></td>
+<td>Hawaii</td>
 </tr>
 </tbody>
 </table>
