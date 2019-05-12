@@ -162,6 +162,11 @@ Jul 5 Papers</td>
 <td>Daejeon, South Korea</td>
 </tr>
 <tr>
+<td>Jul 5 Papers</td>
+<td><a href="http://www.aciconf.org/aci2019/authors/papers">ACI 2019</a></td>
+<td>Haifa, Israel</td>
+</tr>
+<tr>
 <td>Jul 19 Papers</td>
 <td><a href="https://vrst.acm.org/vrst2019/submissions/">VRST 2019</a></td>
 <td>Sydney</td>
