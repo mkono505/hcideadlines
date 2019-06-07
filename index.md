@@ -182,6 +182,12 @@ Jul 5 Papers</td>
 <td></td>
 </tr>
 <tr>
+<td>Aug 30 Abst.
+Sep 5 Papers</td>
+<td><a href="https://aaai.org/Conferences/AAAI-20/aaai20call/">AAAI 2020</a></td>
+<td>New York</td>
+</tr>
+<tr>
 <td>Sep 15 Papers</td>
 <td><a href="http://icra2020.org/">ICRA 2020</a></td>
 <td>Paris</td>
@@ -197,6 +203,17 @@ Sep 18 Papers</td>
 Sep 20 Papers</td>
 <td><a href="https://chi2020.acm.org/">CHI 2020</a></td>
 <td>Hawaii</td>
+</tr>
+<tr>
+<td>Oct 1 Papers</td>
+<td><a href="http://humanrobotinteraction.org/2020/full-papers/">HRI 2020</a></td>
+<td>Cambridge</td>
+</tr>
+<tr>
+<td>Oct 1 Abst.
+Oct 8 Papers</td>
+<td><a href="https://iui.acm.org/2020/call_for_papers.html">IUI 2020</a></td>
+<td>Cagliari, Italy</td>
 </tr>
 </tbody>
 </table>
