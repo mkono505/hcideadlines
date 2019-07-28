@@ -132,7 +132,7 @@ May 7 Papers</td>
 <tr>
 <td>May 15 Journal</td>
 <td><a href="https://imwut.acm.org/authors.cfm">IMWUT</a></td>
-<td></td>
+<td>Cancun, Mexico</td>
 </tr>
 <tr>
 <td>May 20 Papers</td>
@@ -179,13 +179,19 @@ Jul 5 Papers</td>
 <tr>
 <td>Aug 15 Journal</td>
 <td><a href="https://imwut.acm.org/authors.cfm">IMWUT</a></td>
-<td></td>
+<td>Cancun, Mexico</td>
 </tr>
 <tr>
 <td>Aug 30 Abst.
 Sep 5 Papers</td>
 <td><a href="https://aaai.org/Conferences/AAAI-20/aaai20call/">AAAI 2020</a></td>
 <td>New York</td>
+</tr>
+<tr>
+<td>Sep 3 Abst.
+Sep 10 Journals</td>
+<td><a href="http://ieeevr.org/2020/contribute/papers.html">IEEE VR 2020</a></td>
+<td>Atlanta</td>
 </tr>
 <tr>
 <td>Sep 15 Papers</td>
@@ -214,6 +220,16 @@ Sep 20 Papers</td>
 Oct 8 Papers</td>
 <td><a href="https://iui.acm.org/2020/call_for_papers.html">IUI 2020</a></td>
 <td>Cagliari, Italy</td>
+</tr>
+<tr>
+<td>Nov 15 Journal</td>
+<td><a href="https://imwut.acm.org/authors.cfm">IMWUT</a></td>
+<td>Cancun, Mexico</td>
+</tr>
+<tr>
+<td>Nov 16 Papers</td>
+<td><a href="http://cvpr2019.thecvf.com/files/CFP_CVPR2019.pdf">CVPR 2020</a></td>
+<td>Long Beach/td>
 </tr>
 </tbody>
 </table>
