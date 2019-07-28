@@ -229,7 +229,7 @@ Oct 8 Papers</td>
 <tr>
 <td>Nov 16 Papers</td>
 <td><a href="http://cvpr2019.thecvf.com/files/CFP_CVPR2019.pdf">CVPR 2020</a></td>
-<td>Long Beach/td>
+<td>Long Beach</td>
 </tr>
 </tbody>
 </table>
