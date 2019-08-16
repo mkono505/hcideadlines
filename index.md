@@ -231,6 +231,12 @@ Oct 8 Papers</td>
 <td><a href="http://cvpr2019.thecvf.com/files/CFP_CVPR2019.pdf">CVPR 2020</a></td>
 <td>Long Beach</td>
 </tr>
+<tr>
+<td>Nov 16 Abst.
+Nov 23 Papers</td>
+<td><a href="http://ieeevr.org/2020/contribute/papers.html">IEEE VR 2020</a></td>
+<td>Atlanta</td>
+</tr>
 </tbody>
 </table>
 
