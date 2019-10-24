@@ -17,6 +17,11 @@ Jan 23 Papers</td>
 <td><a href="https://imx.acm.org/2020/long-and-short-papers/">IMX 2020 (TVX)</a></td>
 <td>Barcelona</td>
 </tr>
+<tr>
+<td>Jan 29 Papers</td>
+<td><a href="https://augmentedhuman.ca/submissions/">AH 2020</a></td>
+<td>Manitoba, Canada</td>
+</tr>
 </tbody>
 </table>
 
