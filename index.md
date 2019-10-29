@@ -7,6 +7,12 @@
 <table style="line-height: 2;" border="0" >
 <tbody>
 <tr>
+<td>Jan 13 Abst.
+Jan 20 Papers</td>
+<td><a href="https://idc.acm.org/2020/call-for-papers/">IDC 2020</a></td>
+<td>London</td>
+</tr>
+<tr>
 <td>Jan 22 Form
 Jan 23 Papers</td>
 <td><a href="https://s2020.siggraph.org/submissions/">SIGGRAPH 2020</a></td>
@@ -21,6 +27,11 @@ Jan 23 Papers</td>
 <td>Jan 29 Papers</td>
 <td><a href="https://augmentedhuman.ca/submissions/">AH 2020</a></td>
 <td>Manitoba, Canada</td>
+</tr>
+<tr>
+<td>Feb 3 Short Papers</td>
+<td><a href="https://etra.acm.org/2020/cfp.html">ETRA 2020</a></td>
+<td>Stuttgart, Germany</td>
 </tr>
 </tbody>
 </table>
@@ -376,6 +387,12 @@ Oct 8 Papers</td>
 Nov 29 Papers</td>
 <td><a href="http://ieeevr.org/2019/contribute/papers.html">IEEE VR 2019</a></td>
 <td>Osaka</td>
+</tr>
+<tr>
+<td>Dec 1 Abst.
+Dec 8 Full Papers</td>
+<td><a href="https://etra.acm.org/2020/cfp.html">ETRA 2020</a></td>
+<td>Stuttgart, Germany</td>
 </tr>
 <tr>
 <td>Dec 15 Papers</td>
