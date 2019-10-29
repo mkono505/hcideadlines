@@ -1,6 +1,3 @@
-
-<a href="https://michinarikono.wordpress.com/">Michinari Kono</a>
-
 <h2>Deadline Lists:</h2>
 
 <h3>2020</h3>
@@ -417,7 +414,7 @@ Dec 19 Papers</td>
   
 ## Notes:
   
-I had been originally making this list for internal members of our lab.  
+I had been originally making this list for internal members of the lab I belonged to.  
 
 Please note that:
 <ul>
@@ -425,3 +422,4 @@ Please note that:
 	<li>Deadlines tend to be extended, so please make sure about the actual deadline by yourself. I am not responsible to ensure the actual dates of the deadlines.</li>
 </ul>
 
+<a href="https://michinarikono.wordpress.com/">Michinari Kono</a>
