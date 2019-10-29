@@ -270,6 +270,12 @@ Nov 23 Papers</td>
 <td><a href="http://ieeevr.org/2020/contribute/papers.html">IEEE VR 2020</a></td>
 <td>Atlanta</td>
 </tr>
+<tr>
+<td>Dec 1 Abst.
+Dec 8 Full Papers</td>
+<td><a href="https://etra.acm.org/2020/cfp.html">ETRA 2020</a></td>
+<td>Stuttgart, Germany</td>
+</tr>
 </tbody>
 </table>
 
