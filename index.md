@@ -26,6 +26,12 @@ Jan 23 Papers</td>
 <td>Manitoba, Canada</td>
 </tr>
 <tr>
+<td>Jan 24 Abst.
+Jan 31 Papers</td>
+<td><a href="http://dis.acm.org/2020/">DIS 2020</a></td>
+<td>Eindhoven</td>
+</tr>
+<tr>
 <td>Feb 3 Short Papers</td>
 <td><a href="https://etra.acm.org/2020/cfp.html">ETRA 2020</a></td>
 <td>Stuttgart, Germany</td>
