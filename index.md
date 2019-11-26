@@ -36,6 +36,12 @@ Jan 31 Papers</td>
 <td><a href="https://etra.acm.org/2020/cfp.html">ETRA 2020</a></td>
 <td>Stuttgart, Germany</td>
 </tr>
+<tr>
+<td>Sep 10 Abst.
+Sep 17 Papers</td>
+<td><a href="http://chi2021.acm.org/">CHI 2021</a></td>
+<td>Yokohama, Japan</td>
+</tr>
 </tbody>
 </table>
 
