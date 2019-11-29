@@ -21,6 +21,12 @@ Jan 23 Papers</td>
 <td>Barcelona</td>
 </tr>
 <tr>
+<td>Jan 21 Abst.
+Jan 28 Papers</td>
+<td><a href="https://sites.google.com/unisa.it/avi2020/calls/call-for-papers">AVI 2020</a></td>
+<td>Ischia, Italy</td>
+</tr>
+<tr>
 <td>Jan 29 Papers</td>
 <td><a href="https://augmentedhuman.ca/submissions/">AH 2020</a></td>
 <td>Manitoba, Canada</td>
