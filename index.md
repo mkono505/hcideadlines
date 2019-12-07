@@ -38,9 +38,29 @@ Jan 31 Papers</td>
 <td>Eindhoven</td>
 </tr>
 <tr>
+<td>Jan 31 Papers</td>
+<td><a href="https://mobilehci.acm.org/2020/call-for-papers/">Mobile HCI 2020</a></td>
+<td>Oldenburg, Germany</td>
+</tr>
+<tr>
 <td>Feb 3 Short Papers</td>
 <td><a href="https://etra.acm.org/2020/cfp.html">ETRA 2020</a></td>
 <td>Stuttgart, Germany</td>
+</tr>
+<tr>
+<td>Feb 15 Journal</td>
+<td><a href="https://imwut.acm.org/authors.cfm">IMWUT</a></td>
+<td>Cancun, Mexico</td>
+</tr>
+<tr>
+<td>April 1 Papers</td>
+<td><a href="http://uist.acm.org/uist2020/">UIST 2020</a></td>
+<td>Minneapolis</td>
+</tr>
+<tr>
+<td>April 7 Papers</td>
+<td><a href="https://chiplay.acm.org/2020/">CHI PLAY 2020</a></td>
+<td>Ottawa</td>
 </tr>
 <tr>
 <td>Sep 10 Abst.
@@ -290,6 +310,11 @@ Nov 23 Papers</td>
 Dec 8 Full Papers</td>
 <td><a href="https://etra.acm.org/2020/cfp.html">ETRA 2020</a></td>
 <td>Stuttgart, Germany</td>
+</tr>
+<tr>
+<td>Dec 13 Papers</td>
+<td><a href="http://i3dsymposium.github.io/2020/">i3D 2020</a></td>
+<td>San Francisco</td>
 </tr>
 </tbody>
 </table>
