@@ -4,6 +4,11 @@
 <table style="line-height: 2;" border="0" >
 <tbody>
 <tr>
+<td>Jan 9 Papers</td>
+<td><a href="http://augmented-humans.org/">AHs 2020</a></td>
+<td>Kaiserslautern, Germany</td>
+</tr>
+<tr>
 <td>Jan 13 Abst.
 Jan 20 Papers</td>
 <td><a href="https://idc.acm.org/2020/call-for-papers/">IDC 2020</a></td>
