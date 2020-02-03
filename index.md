@@ -53,19 +53,50 @@ Jan 31 Papers</td>
 <td>Stuttgart, Germany</td>
 </tr>
 <tr>
+<td>Feb 13 Papers</td>
+<td><a href="https://waset.org/computational-vision-conference-in-june-2020-in-venice">ICCV 2020</a></td>
+<td>Venice, Italy</td>
+</tr>
+<tr>
 <td>Feb 15 Journal</td>
 <td><a href="https://imwut.acm.org/authors.cfm">IMWUT</a></td>
 <td>Cancun, Mexico</td>
 </tr>
+<td>Mar 21 Abst.
+Mar 28 Papers</td>
+<td><a href="https://2020.acmmm.org/important-dates.html">MM 2020</a></td>
+<td>Seattle</td>
+</tr>
+<tr>
+<td>Mar 30 Papers</td>
+<td><a href="http://www.iros2020.org/2submission/CallforPapers.pdf">IROS 2020</a></td>
+<td>Las Vegas</td>
+</tr>	
 <tr>
 <td>April 1 Papers</td>
 <td><a href="http://uist.acm.org/uist2020/">UIST 2020</a></td>
 <td>Minneapolis</td>
 </tr>
 <tr>
+<td>Mar 30 Abst.
+Apr 6 Papers</td>
+<td><a href="http://ismar20.org/call-for-participation/">ISMAR 2020</a></td>
+<td>Recife, Brazil</td>
+</tr>
+<tr>
 <td>April 7 Papers</td>
 <td><a href="https://chiplay.acm.org/2020/">CHI PLAY 2020</a></td>
 <td>Ottawa</td>
+</tr>
+<tr>
+<td>Apr 15 Journal</td>
+<td><a href="https://cscw.acm.org/2020/submit-papers.html">CSCW 2020</a></td>
+<td>Minneapolis</td>
+</tr>
+<tr>
+<td>Jul 15 Journal</td>
+<td><a href="https://cscw.acm.org/2020/submit-papers.html">CSCW 2021</a></td>
+<td></td>
 </tr>
 <tr>
 <td>Sep 10 Abst.
