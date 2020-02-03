@@ -9,6 +9,11 @@
 <td>Kaiserslautern, Germany</td>
 </tr>
 <tr>
+<td>Jan 15 Journal</td>
+<td><a href="https://cscw.acm.org/2020/submit-papers.html">CSCW 2020</a></td>
+<td>Minneapolis</td>
+</tr>
+<tr>
 <td>Jan 13 Abst.
 Jan 20 Papers</td>
 <td><a href="https://idc.acm.org/2020/call-for-papers/">IDC 2020</a></td>
