@@ -372,7 +372,6 @@ Dec 8 Full Papers</td>
 </tbody>
 </table>
 
-<h3>Past Deadlines<h3>
 <h3>2018</h3>
 <table style="line-height: 2;" border="0">
 <tbody>
