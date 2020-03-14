@@ -68,8 +68,7 @@ Jan 31 Papers</td>
 <td>Cancun, Mexico</td>
 </tr>
 <tr>
-<td>Mar 21 Abst.
-Mar 28 Papers</td>
+<td>Mar 25 Papers</td>
 <td><a href="https://2020.acmmm.org/important-dates.html">MM 2020</a></td>
 <td>Seattle</td>
 </tr>
@@ -78,11 +77,6 @@ Mar 28 Papers</td>
 <td><a href="http://www.iros2020.org/2submission/CallforPapers.pdf">IROS 2020</a></td>
 <td>Las Vegas</td>
 </tr>	
-<tr>
-<td>April 1 Papers</td>
-<td><a href="http://uist.acm.org/uist2020/">UIST 2020</a></td>
-<td>Minneapolis</td>
-</tr>
 <tr>
 <td>Mar 30 Abst.
 Apr 6 Papers</td>
@@ -95,8 +89,14 @@ Apr 6 Papers</td>
 <td>Ottawa</td>
 </tr>
 <tr>
+<td>Apr 1 Abst.
+Apr 15 Papers</td>
+<td><a href="http://uist.acm.org/uist2020/">UIST 2020</a></td>
+<td>Minneapolis</td>
+</tr>
+<tr>
 <td>Apr 15 Journal</td>
-<td><a href="https://cscw.acm.org/2020/submit-papers.html">CSCW 2020</a></td>
+<td><a href="https://cscw.acm.org/2020/index.php/papers/">CSCW 2020</a></td>
 <td>Minneapolis</td>
 </tr>
 <tr>
@@ -112,7 +112,7 @@ May 11 Papers</td>
 </tr>
 <tr>
 <td>Jul 15 Journal</td>
-<td><a href="https://cscw.acm.org/2020/submit-papers.html">CSCW 2021</a></td>
+<td><a href="https://cscw.acm.org/2020/index.php/papers/">CSCW 2021</a></td>
 <td></td>
 </tr>
 <tr>
