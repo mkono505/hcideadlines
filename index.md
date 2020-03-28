@@ -110,16 +110,21 @@ May 6 Papers</td>
 <td>Shanghai</td>
 </tr>
 <tr>
+<td>May 10 Form
+May 11 Papers</td>
+<td><a href="https://sa2020.siggraph.org/submissions">SIGGRAPH Asia 2020</a></td>
+<td>Daegu, South Korea</td>
+</tr>
+<tr>
 <td>Mar 5 Abst.
 May 12 Papers</td>
 <td><a href="http://sap.acm.org/2020/cfp.php">SAP 2020</a></td>
 <td>Virtual</td>
 </tr>
 <tr>
-<td>May 10 Form
-May 11 Papers</td>
-<td><a href="https://sa2020.siggraph.org/submissions">SIGGRAPH Asia 2020</a></td>
-<td>Daegu, South Korea</td>
+<td>May 15 Journal</td>
+<td><a href="https://imwut.acm.org/authors.cfm">IMWUT</a></td>
+<td>Cancun, Mexico</td>
 </tr>
 <tr>
 <td>May 17 Papers</td>
@@ -139,6 +144,11 @@ May 11 Papers</td>
 <tr>
 <td>Jul 15 Journal</td>
 <td><a href="https://cscw.acm.org/2020/index.php/papers/">CSCW 2021</a></td>
+<td></td>
+</tr>
+<tr>
+<td>Aug 15 Journal</td>
+<td><a href="https://imwut.acm.org/authors.cfm">IMWUT</a></td>
 <td></td>
 </tr>
 <tr>
