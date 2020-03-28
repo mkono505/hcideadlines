@@ -4,14 +4,14 @@
 <table style="line-height: 2;" border="0" >
 <tbody>
 <tr>
-<td>Jan 9 Papers</td>
-<td><a href="http://augmented-humans.org/">AHs 2020</a></td>
-<td>Kaiserslautern, Germany</td>
-</tr>
-<tr>
 <td>Jan 15 Journal</td>
 <td><a href="https://cscw.acm.org/2020/submit-papers.html">CSCW 2020</a></td>
 <td>Minneapolis</td>
+</tr>
+<tr>
+<td>Jan 16 Papers</td>
+<td><a href="http://augmented-humans.org/">AHs 2020</a></td>
+<td>Kaiserslautern, Germany</td>
 </tr>
 <tr>
 <td>Jan 13 Abst.
@@ -68,7 +68,7 @@ Jan 31 Papers</td>
 <td>Cancun, Mexico</td>
 </tr>
 <tr>
-<td>Mar 30 Papers</td>
+<td>Mar 1 Papers</td>
 <td><a href="http://www.iros2020.org/2submission/CallforPapers.pdf">IROS 2020</a></td>
 <td>Las Vegas</td>
 </tr>	
