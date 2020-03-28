@@ -68,42 +68,68 @@ Jan 31 Papers</td>
 <td>Cancun, Mexico</td>
 </tr>
 <tr>
-<td>Mar 25 Papers</td>
-<td><a href="https://2020.acmmm.org/important-dates.html">MM 2020</a></td>
-<td>Seattle</td>
-</tr>
-<tr>
 <td>Mar 30 Papers</td>
 <td><a href="http://www.iros2020.org/2submission/CallforPapers.pdf">IROS 2020</a></td>
 <td>Las Vegas</td>
 </tr>	
-<tr>
-<td>Mar 30 Abst.
-Apr 6 Papers</td>
-<td><a href="http://ismar20.org/call-for-participation/">ISMAR 2020</a></td>
-<td>Recife, Brazil</td>
-</tr>
-<tr>
-<td>April 7 Papers</td>
-<td><a href="https://chiplay.acm.org/2020/">CHI PLAY 2020</a></td>
-<td>Ottawa</td>
-</tr>
-<tr>
-<td>Apr 1 Abst.
-Apr 15 Papers</td>
-<td><a href="http://uist.acm.org/uist2020/">UIST 2020</a></td>
-<td>Minneapolis</td>
-</tr>
 <tr>
 <td>Apr 15 Journal</td>
 <td><a href="https://cscw.acm.org/2020/index.php/papers/">CSCW 2020</a></td>
 <td>Minneapolis</td>
 </tr>
 <tr>
+<td>Apr 13 Abst.
+Apr 20 Papers</td>
+<td><a href="http://ismar20.org/call-for-participation/">ISMAR 2020</a></td>
+<td>Recife, Brazil</td>
+</tr>
+<tr>
+<td>Apr 21 Papers</td>
+<td><a href="https://chiplay.acm.org/2020/">CHI PLAY 2020</a></td>
+<td>Ottawa</td>
+</tr>
+<tr>
+<td>Apr 25 Papers</td>
+<td><a href="https://2020.acmmm.org/important-dates.html">MM 2020</a></td>
+<td>Seattle</td>
+</tr>
+<tr>
+<td>May 4 Papers</td>
+<td><a href="http://icmi.acm.org/2020/index.php?id=cfp">ICMI 2020</a></td>
+<td>Utrecht</td>
+</tr>
+<tr>
+<td>Apr 20 Abst.
+May 6 Papers</td>
+<td><a href="http://uist.acm.org/uist2020/">UIST 2020</a></td>
+<td>Minneapolis</td>
+</tr>
+<tr>
+<td>May 8 Papers</td>
+<td><a href="http://www.interspeech2020.org/">INTERSPEECH 2020</a></td>
+<td>Shanghai</td>
+</tr>
+<tr>
+<td>Mar 5 Abst.
+May 12 Papers</td>
+<td><a href="http://sap.acm.org/2020/cfp.php">SAP 2020</a></td>
+<td>Virtual</td>
+</tr>
+<tr>
 <td>May 10 Form
 May 11 Papers</td>
 <td><a href="https://sa2020.siggraph.org/submissions">SIGGRAPH Asia 2020</a></td>
 <td>Daegu, South Korea</td>
+</tr>
+<tr>
+<td>May 17 Papers</td>
+<td><a href="http://hai-conference.net/hai2020/">HAI 2020</a></td>
+<td>Sydney</td>
+</tr>
+<tr>
+<td>Jun 29 Papers</td>
+<td><a href="https://vrst.acm.org/vrst2020/?page_id=20">VRST 2020</a></td>
+<td>Ottawa</td>
 </tr>
 <tr>
 <td>Jul 1 Papers</td>
