@@ -137,7 +137,7 @@ May 12 Papers</td>
 <td>Ottawa</td>
 </tr>
 <tr>
-<td>Jul 1 Papers</td>
+<td>Jul 8 Papers</td>
 <td><a href="https://iss.acm.org/2020/">ISS 2020</a></td>
 <td>Lisbon</td>
 </tr>
@@ -147,15 +147,44 @@ May 12 Papers</td>
 <td></td>
 </tr>
 <tr>
+<td>Jul 24 Abst.
+Aug 7 Papers</td>
+<td><a href="https://tei.acm.org/2021/">TEI 2021</a></td>
+<td>Lisbon</td>
+</tr>
+<tr>
 <td>Aug 15 Journal</td>
 <td><a href="https://imwut.acm.org/authors.cfm">IMWUT</a></td>
-<td></td>
+<td>Salzburg</td>
+</tr>
+<tr>
+<td>Sep 1 Abst.
+Sep 9 Papers</td>
+<td><a href="https://aaai.org/Conferences/AAAI-21/">AAAI 2021</a></td>
+<td>Vancouver</td>
+</tr>
+<tr>
+<td>Sep 2 Abst.
+Sep 9 Journals</td>
+<td><a href="http://ieeevr.org/2021/contribute/">IEEE VR 2021</a></td>
+<td>Lisbon</td>
 </tr>
 <tr>
 <td>Sep 10 Abst.
 Sep 17 Papers</td>
 <td><a href="http://chi2021.acm.org/">CHI 2021</a></td>
 <td>Yokohama, Japan</td>
+</tr>
+<tr>
+<td>Oct 2 Abst.
+Oct 7 Papers</td>
+<td><a href="https://iui.acm.org/2021/">IUI 2021</a></td>
+<td>Texas</td>
+</tr>
+<tr>
+<td>Nov 16 Papers</td>
+<td><a href="http://cvpr2021.thecvf.com/">CVPR 2021</a></td>
+<td>Nashville</td>
 </tr>
 </tbody>
 </table>
