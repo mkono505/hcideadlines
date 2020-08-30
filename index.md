@@ -176,15 +176,31 @@ Sep 17 Papers</td>
 <td>Yokohama, Japan</td>
 </tr>
 <tr>
+<td>Oct 5 Papers</td>
+<td><a href="https://humanrobotinteraction.org/2021/full-papers/">HRI 2021</a></td>
+<td>Boulder, Colorado</td>
+</tr>
+<tr>
 <td>Oct 2 Abst.
 Oct 7 Papers</td>
 <td><a href="https://iui.acm.org/2021/">IUI 2021</a></td>
 <td>Texas</td>
 </tr>
 <tr>
+<td>Nov 15 Journal</td>
+<td><a href="https://imwut.acm.org/authors.cfm">IMWUT</a></td>
+<td></td>
+</tr>
+<tr>
 <td>Nov 16 Papers</td>
 <td><a href="http://cvpr2021.thecvf.com/">CVPR 2021</a></td>
 <td>Nashville</td>
+</tr>
+<tr>
+<td>Nov 25 Abst.
+Dec 2 Papers</td>
+<td><a href="https://etra.acm.org/2021/cfp.html">ETRA 2021</a></td>
+<td>Stuttgart</td>
 </tr>
 </tbody>
 </table>
