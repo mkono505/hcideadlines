@@ -187,6 +187,12 @@ Oct 7 Papers</td>
 <td>Texas</td>
 </tr>
 <tr>
+<td>Nov 6 Abst.
+Nov 13 Papers</td>
+<td><a href="http://ieeevr.org/2021/contribute/conference-papers/">IEEE VR 2021</a></td>
+<td>Lisbon</td>
+</tr>
+<tr>
 <td>Nov 15 Journal</td>
 <td><a href="https://imwut.acm.org/authors.cfm">IMWUT</a></td>
 <td></td>
@@ -195,6 +201,11 @@ Oct 7 Papers</td>
 <td>Nov 16 Papers</td>
 <td><a href="http://cvpr2021.thecvf.com/">CVPR 2021</a></td>
 <td>Nashville</td>
+</tr>
+<tr>
+<td>Nov 21 Papers</td>
+<td><a href="https://augmented-humans.org/calls-for-participation/">AHs 2021</a></td>
+<td>Rovaniemi, Finland</td>
 </tr>
 <tr>
 <td>Nov 25 Abst.
