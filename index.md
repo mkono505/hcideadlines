@@ -1,5 +1,37 @@
 <h2>Deadline Lists:</h2>
 
+<h3>2021</h3>
+<table style="line-height: 2;" border="0" >
+<tbody>
+<tr>
+<td>Jan 15 Journal</td>
+<td><a href="https://cscw.acm.org/2021/index.php/papers/">CSCW 2021</a></td>
+<td></td>
+</tr>
+<tr>
+<td>Jan 27 Form
+Jan 28 Papers</td>
+<td><a href="https://s2021.siggraph.org/submit-to-siggraph/">SIGGRAPH 2021</a></td>
+<td>Los Angeles</td>
+</tr>
+<tr>
+<td>Feb 15 Journal</td>
+<td><a href="https://imwut.acm.org/authors.cfm">IMWUT</a></td>
+<td>(Online?)</td>
+</tr>
+<tr>
+<td>Feb 17 Journal</td>
+<td><a href="https://chiplay.acm.org/2021/">CHI Play 2021</a></td>
+<td>Vienna</td>
+</tr>
+<tr>
+<td>Apr 15 Journal</td>
+<td><a href="https://cscw.acm.org/2021/index.php/papers/">CSCW 2021</a></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 <h3>2020</h3>
 <table style="line-height: 2;" border="0" >
 <tbody>
