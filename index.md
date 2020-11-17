@@ -12,17 +12,33 @@
 <td>Jan 27 Form
 Jan 28 Papers</td>
 <td><a href="https://s2021.siggraph.org/submit-to-siggraph/">SIGGRAPH 2021</a></td>
-<td>Los Angeles</td>
+<td>Virtual (Los Angeles)</td>
+</tr>
+<tr>
+<td>Jan 29 Papers</td>
+<td><a href="http://imx.acm.org/2021/">IMX 2021</a></td>
+<td>Virtual (New York)</td>
+</tr>
+<tr>
+<td>Feb 4 Papers</td>
+<td><a href="https://mobilehci.acm.org/2021/">MobileHCI 2021</a></td>
+<td>Toulouse, France</td>
 </tr>
 <tr>
 <td>Feb 15 Journal</td>
 <td><a href="https://imwut.acm.org/authors.cfm">IMWUT</a></td>
-<td>(Online?)</td>
+<td>Virtual</td>
 </tr>
 <tr>
 <td>Feb 17 Journal</td>
 <td><a href="https://chiplay.acm.org/2021/">CHI Play 2021</a></td>
 <td>Vienna</td>
+</tr>
+<tr>
+<td>Mar 10 Abst.
+Mar 17 Papers</td>
+<td><a href="http://iccv2021.thecvf.com/home">ICCV 2021</a></td>
+<td>Montreal</td>
 </tr>
 <tr>
 <td>Apr 15 Journal</td>
@@ -244,6 +260,11 @@ Nov 13 Papers</td>
 Dec 2 Papers</td>
 <td><a href="https://etra.acm.org/2021/cfp.html">ETRA 2021</a></td>
 <td>Stuttgart</td>
+</tr>
+<tr>
+<td>Dec 22 Papers</td>
+<td><a href="http://i3dsymposium.github.io/2021/">i3D 2021</a></td>
+<td>Virtual</td>
 </tr>
 </tbody>
 </table>
