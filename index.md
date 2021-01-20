@@ -25,6 +25,12 @@ Jan 28 Papers</td>
 <td>Toulouse, France</td>
 </tr>
 <tr>
+<td>Feb 4 Abst.
+Feb 11 Papers</td>
+<td><a href="https://dis.acm.org/2021/">DIS 2021</a></td>
+<td>Virtual</td>
+</tr>
+<tr>
 <td>Feb 15 Journal</td>
 <td><a href="https://imwut.acm.org/authors.cfm">IMWUT</a></td>
 <td>Virtual</td>
@@ -44,6 +50,17 @@ Jan 28 Papers</td>
 Mar 17 Papers</td>
 <td><a href="http://iccv2021.thecvf.com/home">ICCV 2021</a></td>
 <td>Montreal</td>
+</tr>
+<tr>
+<td>Apr 3 Papers</td>
+<td><a href="https://2021.acmmm.org/index.html">MM 2021</a></td>
+<td>Chengdu</td>
+</tr>
+<tr>
+<td>Mar 31 Abst.
+Apr 7 Papers</td>
+<td><a href="https://uist.acm.org/uist2021/index.html">UIST 2021</a></td>
+<td>Virtual</td>
 </tr>
 <tr>
 <td>Apr 15 Journal</td>
