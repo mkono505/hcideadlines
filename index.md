@@ -67,6 +67,44 @@ Apr 7 Papers</td>
 <td><a href="https://cscw.acm.org/2021/index.php/papers/">CSCW 2021</a></td>
 <td></td>
 </tr>
+<tr>
+<td>May 15 Journal</td>
+<td><a href="https://imwut.acm.org/authors.cfm">IMWUT</a></td>
+<td>Virtual</td>
+</tr>
+<tr>
+<td>May 20 Form
+May 21 Papers</td>
+<td><a href="https://sa2021.siggraph.org/en/">SIGGRAPH Asia 2021</a></td>
+<td>Tokyo</td>
+</tr>
+<tr>
+<td>May 26 Papers</td>
+<td><a href="https://icmi.acm.org/2021/">ICMI 2021</a></td>
+<td>Montreal</td>
+</tr>
+<tr>
+<td>May 25 Abst.
+May 27 Papers</td>
+<td><a href="https://sap.acm.org/2021/index.html">SAP 2021</a></td>
+<td>Rennes</td>
+</tr>
+<tr>
+<td>May 24 Abst.
+May 28 Conf. Papers</td>
+<td><a href="https://ismar21.org/">ISMAR 2021</a></td>
+<td>Bari</td>
+</tr>
+<tr>
+<td>July 2 Papers</td>
+<td><a href="https://iss.acm.org/2021/">ISS 2021</a></td>
+<td>Łódź, Poland</td>
+</tr>
+<tr>
+<td>July 15 Papers</td>
+<td><a href="http://vrst.acm.org/vrst2021/">VRST 2021</a></td>
+<td>Osaka</td>
+</tr>
 </tbody>
 </table>
 
