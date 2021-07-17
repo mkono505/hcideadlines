@@ -105,6 +105,50 @@ May 28 Conf. Papers</td>
 <td><a href="http://vrst.acm.org/vrst2021/">VRST 2021</a></td>
 <td>Osaka</td>
 </tr>
+<tr>
+<td>Aug 2 Papers</td>
+<td><a href="https://tei.acm.org/2022/">TEI 2022</a></td>
+<td>Daejeon</td>
+</tr>
+<tr>
+<td>Aug 15 Journal</td>
+<td><a href="https://imwut.acm.org/authors.cfm">IMWUT</a></td>
+<td></td>
+</tr>
+<tr>
+<td>Sep 1 Abst.
+Sep 6 Journals</td>
+<td><a href="https://ieeevr.org/2022/contribute/">IEEE VR 2022</a></td>
+<td>Christchurch, New Zealand</td>
+</tr>
+<tr>
+<td>Aug 30 Abst.
+Sep 8 Papers</td>
+<td><a href="https://aaai.org/Conferences/AAAI-22/">AAAI 2022</a></td>
+<td>Vancouver</td>
+</tr>
+<tr>
+<td>Sep 2 Abst.
+Sep 9 Papers</td>
+<td><a href="https://chi2022.acm.org/for-authors/presenting/papers/">CHI 2022</a></td>
+<td>New Orleans</td>
+</tr>
+<tr>
+<td>Oct 5 Papers</td>
+<td><a href="https://humanrobotinteraction.org/2021/full-papers/">HRI 2022</a></td>
+<td>Virtual</td>
+</tr>
+<tr>
+<td>Oct 1 Abst.
+Oct 8 Papers</td>
+<td><a href="https://iui.acm.org/2022/call_for_papers.html">IUI 2022</a></td>
+<td>Helsinki</td>
+</tr>
+<tr>
+<td>Nov 15 Journal</td>
+<td><a href="https://imwut.acm.org/authors.cfm">IMWUT</a></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
